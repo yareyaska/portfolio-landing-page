@@ -76,4 +76,31 @@ body{
 
 #showcase h1{
 font-size:25px;
+
+}
+
+#shows .show{
+
+	float: right;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+
+
+   #hood .hoo{
+
+	float: left;
+	text-align: center;
+	width: 50%;
+	padding: 10px;
+}
+
+ #hood .ho{
+
+	float: right;
+	text-align: center;
+	width: 40%;
+	padding: 10px;
 }
