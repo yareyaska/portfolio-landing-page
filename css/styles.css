@@ -4,17 +4,17 @@ body{
 	font-family: sans-serif;
 
 }
-.nav ul{
+#branding  ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
 
-.nav ul li{
+ #branding ul li{
 
    float: left;
-   width:300px;
+   width:200px;
    height:40px;
    background-color: black;
    text-align:center;
@@ -25,26 +25,27 @@ body{
 
 }
 
-.nav ul li a{
+#branding  ul li a{
 
-   text-decoration: none;
+   text-decoration: none; 
    color: #fff;
    display: block;
 
 
 }
 
-.nav ul li a:hover{
+#branding  ul li a:hover{
 
    background-color: green;
 
 
 }
-ul li ul li{
+
+#branding  ul li ul li{
 
 	display: none;
 }
-ul li:hover ul li{
+#branding  ul li:hover ul li{
 
 	display: block;
 }
@@ -53,4 +54,26 @@ ul li:hover ul li{
 	width:80%;
 	margin: auto;
 	overflow: hidden;
+}
+
+#showcase{
+      background-image: url('../images/coffee.jpg');
+      margin-top: 4px;
+      height: 500px;
+      color: #fff;
+    
+}
+
+#showcase h1{
+         text-align: center;
+         margin-top: 100px;
+         margin-bottom: 12px;
+         font-size: 50px;
+
+
+
+}
+
+#showcase h1{
+font-size:25px;
 }
