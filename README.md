@@ -6,12 +6,12 @@ and a personal narrative.
 
 ## Setup/Installation Requirements
 * git clone
-* cd profolio-landing
+* cd portfolio-landing
 * open index.html from a browser
 
 
 ## Known Bugs
-there were no bags at all,before pushing the project it was tested and working well
+there were no bugs at all,before pushing the project it was tested and working well
 
 ## Technologies Used
 html
